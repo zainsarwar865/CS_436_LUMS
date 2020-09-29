@@ -1,2 +1,2 @@
-# CS_436_LUMS
-Assignment solutions for CS_436
+# Assignment solutions Computer Vision CS_436_LUMS Spring '20
+
